@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local database and runtime files
+sesat.db
+*.sqlite
+*.sqlite3
+
+# Local/private configuration
+config.ini
+
+# Build artifacts
+build/
+dist/
+
+# PyInstaller cache/spec outputs
+*.toc
+*.pyz
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
