@@ -1,9 +1,12 @@
+<img width="420" height="461" alt="Captura de tela de 2026-04-14 10-10-06" src="https://github.com/user-attachments/assets/a6de189e-a45a-4ce8-99ec-4326e7b67633" />
+<img width="1363" height="687" alt="Captura de tela de 2026-04-14 10-11-22" src="https://github.com/user-attachments/assets/bf4c60f7-aaeb-4121-a0e6-4b9d584a2b23" />
 # SESAT
 
 Sistema desktop em Python (Tkinter) para controle de entrada e saida de equipamentos de TI.
 
 ## Funcionalidades
 - Login de usuarios com perfis (Supervisor e Consultor).
+
 - Cadastro, edicao e exclusao de registros de equipamentos.
 - Consulta automatica de patrimonio via intranet TRE-CE.
 - Importacao de planilhas `.xlsx` com prevencao de duplicados.
