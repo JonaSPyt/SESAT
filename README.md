@@ -1,7 +1,8 @@
-<div style="text-align: center;">
-  <img style="margin: 10px;" width="420" height="461" src="https://github.com/user-attachments/assets/a6de189e-a45a-4ce8-99ec-4326e7b67633" />
-  <img style="margin: 10px;" width="1363" height="687" src="https://github.com/user-attachments/assets/bf4c60f7-aaeb-4121-a0e6-4b9d584a2b23" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/a6de189e-a45a-4ce8-99ec-4326e7b67633" />
+  <img style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/bf4c60f7-aaeb-4121-a0e6-4b9d584a2b23" />
 </div>
+
 
 # SESAT
 
